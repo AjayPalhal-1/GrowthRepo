@@ -1,0 +1,8 @@
+
+Abstraction done 
+
+// Key Takeaways:
+// Abstraction is about showing only the relevant details while hiding the complex internal workings.
+// It promotes selective ignorance, focusing on aspects that matter in the given context.
+// Through abstraction, systems become more user-friendly, flexible, and secure, aligning with modular
+//  and scalable development practices.

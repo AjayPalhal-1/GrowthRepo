@@ -29,3 +29,14 @@
 8. String
 
 
+
+
+:::  OOPs ::::
+
+Abstraction 
+Encapsulation
+Inheritance 
+Polymerphisams;
+
+
+
