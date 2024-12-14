@@ -3,12 +3,10 @@
 
 // Example: For rows = 4 and columns = 5:
 
-// markdown
-// Copy code
-// *****
-// *   *
-// *   *
-// *****
+// * * * * * 
+// *       * 
+// *       * 
+// * * * * *
 
 
 #include<iostream>
