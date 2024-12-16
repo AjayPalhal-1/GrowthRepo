@@ -10,8 +10,8 @@
 2.  Queue 
 3.  LinkedList 
 4.  Sorting 
-5.  Templates 
-6.  Searching 
+5.  Templates    Concept Done 
+6.  Searching    Binary Search Concept Done                     
 
 
 
