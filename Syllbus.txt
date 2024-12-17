@@ -6,7 +6,7 @@
 ::::     DSA    :::::
 
 
-1.  Stack 
+1.  Stack        Concept Done 
 2.  Queue 
 3.  LinkedList 
 4.  Sorting 
