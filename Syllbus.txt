@@ -19,7 +19,7 @@
 ::::    Adavanced CPP ::::
 
 
-1. Pattern 
+1. Pattern      ::: 
 2. array 
 3. Static Array Function 
 4. Exception Handling 
