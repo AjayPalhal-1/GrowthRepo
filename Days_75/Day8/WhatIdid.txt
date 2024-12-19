@@ -1,0 +1,7 @@
+
+
+Today I Did Patterns Topic Of Advances CPPs Topic 
+
+
+For Controlling Row :: Outer For LOOP 
+For Controlling Coloumn :: Innner For LOOP

@@ -6,12 +6,12 @@
 ::::     DSA    :::::
 
 
-1.  Stack        Concept Done 
+1.  Stack               Concept Done 
 2.  Queue 
 3.  LinkedList 
 4.  Sorting 
-5.  Templates    Concept Done 
-6.  Searching    Binary Search Concept Done                     
+5.  Templates          Concept Done 
+6.  Searching          Binary Search Concept Done                     
 
 
 
@@ -19,7 +19,7 @@
 ::::    Adavanced CPP ::::
 
 
-1. Pattern      ::: 
+1. Pattern      :::                3  problem solved
 2. array 
 3. Static Array Function 
 4. Exception Handling 
@@ -33,8 +33,8 @@
 
 :::  OOPs ::::
 
-Abstraction 
-Encapsulation
+Abstraction                     Concept Done 
+Encapsulation                   Concept Done
 Inheritance 
 Polymerphisams;
 
