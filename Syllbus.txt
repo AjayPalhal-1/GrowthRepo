@@ -7,7 +7,7 @@
 
 
 1.  Stack               Concept Done 
-2.  Queue 
+2.  Queue                      
 3.  LinkedList 
 4.  Sorting 
 5.  Templates          Concept Done 
