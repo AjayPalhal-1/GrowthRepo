@@ -31,9 +31,9 @@ void findMaxMin(array <int, 5> arr )
 
       
     }
-            cout<<"Minimum Element Is "<<min;
+            cout<<"Minimum Element Is  : "<<min;
 
-            cout<<"\nMaximum  Element Is "<<max;
+            cout<<"\nMaximum  Element Is  : "<<max;
 
 
 
@@ -42,5 +42,31 @@ void findMaxMin(array <int, 5> arr )
 int main()
 {
     array <int ,5> arr = {1,2,3,4,5};
-    findMaxMin(arr);
+    array <int ,5 > brr ={6,7,8,9,10};
+
+   // findMaxMin(arr);
+    arr.swap(brr);
+
+    cout<<"\nLast Element : "<<arr.back();
+    cout<<"\nFirst Element : "<<*arr.begin();
+    cout<<"\nArray Size  :"<<arr.size();
+    cout<<"\nArray Data 1st Element : "<<* arr.data();
+    cout<<"\nArray End Element :"<<arr.end()-1;
+    cout<<"\nArray MAx Size : "<<arr.max_size();
+
+    
+
+    // cout<<"\narr = ";
+    // for (int i=0;i< 5 ;i++)
+    // {
+    //   cout<<arr.at(i)<<" "; 
+    // 
+    
+    
+    // cout<<"\nbrr = ";
+
+    // for (int i=0;i< 5 ;i++)
+    // {
+    //   cout<<brr.at(i)<<" "; 
+    // }
 }
