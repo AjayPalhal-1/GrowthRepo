@@ -1,0 +1,33 @@
+
+
+
+Solved Problem On Map
+
+
+The keys are the real data you want to track (unique elements).    Key : DATA 
+The values provide useful information about those keys             Values : Metadata
+
+
+
+
+LOM ;
+
+
+1. Map Lookup Operation:
+•Maps use a lookup operation to find whether a key already exists in the map. 
+2. Default Value for Keys:
+•When a key is entering in the map for the first time  the map inserts the key with a 
+default value 0 for int type keys . 
+3. Updating Values:
+•The ++ operator is responsible for incrementing the values of the key. 
+•For example: 
+•If the value for key = 2 is 0,  // 2 entering firstly  
+freq_map[2]++ updates it to 1.   // key = 2 , value = 1
+•If the value for key = 2 is 1, // 2 entering second time   
+    freq_map[2]++ updates it to 2.   //  so here only value get incriments 
+by 1  so key = 2  , value = 2
+4. Efficiency:
+•Maps use data structures like Red-Black Trees to efficiently perform lookup, 
+insertion, and update operations in O(log n) time. 
+Key : stores uniqe data  // original data 
+Values  :  info about keys  // metadata

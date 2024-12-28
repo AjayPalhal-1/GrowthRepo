@@ -1,0 +1,25 @@
+
+
+
+DSA .
+
+STL ->  Map 
+
+map is associative container data structure in STL lab 
+
+it stores data in the formate of key value pairs 
+
+
+#include<map>
+syntax : map<data type of KEY  , data type of DATA > map_Name = {{1,"AJAY"},{2,"PK"},{3, "AP"},{4,"BM"},{5,"amol"}};
+
+
+
+
+
+
+
+
+
+
+
