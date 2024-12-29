@@ -1,0 +1,19 @@
+
+
+
+
+Solved 2nd problem on Map
+
+
+
+Frequency Counting with map :
+
+ Learned to count the frequency of each
+ character in a string using a map, where the key is the character and the value is its count.
+
+
+
+ If i need to work on string then for key i need use datatype as "char" 
+ for values "int" for counting the occurance of charecters.
+
+

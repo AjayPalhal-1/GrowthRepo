@@ -41,7 +41,7 @@ int main()
     }
 
     cout << "Element -> Frequency" << endl;
-    for (const auto& pair : freq_map) {
+    for ( auto  pair : freq_map) {
         cout << pair.first << " -> " << pair.second << endl;
     }
 
