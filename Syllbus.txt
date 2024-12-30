@@ -29,7 +29,7 @@ Graph
 
 1. Pattern      :::                3  problem solved
 2. array 
-3. Static Array Function 
+3. Static Array Function        
 4. Exception Handling 
 5. Operator Overloading 
 6. Copy Constructor
